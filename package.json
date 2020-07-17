@@ -2,6 +2,9 @@
   "name": "coke-ui",
   "version": "0.1.0",
   "private": true,
+  "author": "IceCola | bingkelele007@163.com",
+  "description": "一个基于Vue的UI框架",
+  "keywords": ["vue","coke-ui","ui"],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -26,5 +29,10 @@
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hcer1999/coke-ui"
+  },
+  "license": "MIT"
 }
